@@ -17,9 +17,9 @@
 
 ### 📊 Mis estadísticas de GitHub
 
-![Ivan's GitHub stats][(https://github-readme-stats.vercel.app/api?username=notevan404&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=notevan404&show_icons=true&theme=tokyonight))
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notevan404&show_icons=true&theme=tokyonight)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=notevan404&layout=compact&theme=tokyonight))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notevan404&layout=compact&theme=tokyonight)
 
 ---
 
