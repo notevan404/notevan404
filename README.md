@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Iván
+# 👋 Hi! I'm Iván
 
-💻 Estudiante de Máster en Programación y Desarrollo de Aplicaciones  
-🚀 Apasionado por el desarrollo backend y la creación de proyectos en Java  
-🎯 Actualmente aprendiendo: **Spring Boot, APIs REST y SQL**
+💻 Master's student in Programming and Application Development  
+🚀 Passionate about backend development and building projects in Java  
+🎯 Currently learning: **Spring Boot, REST APIs, and SQL**
 
 ---
 
-### 🧠 Tecnologías que uso
+### 🧠 Technologies I use
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### 📊 My GitHub Stats
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notevan404&show_icons=true&theme=tokyonight)
 
@@ -23,6 +23,6 @@
 
 ---
 
-### 🌐 Conecta conmigo
+### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-perez-403068357)
