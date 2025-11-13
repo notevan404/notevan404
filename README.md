@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Iván
+# Hi! I'm Iván
 
 💻 Master's student in Programming and Application Development  
 🚀 Passionate about backend development and building projects in Java  
