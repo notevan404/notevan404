@@ -6,7 +6,6 @@
 
 ---
 
-### 🧠 Technologies I use
 
 ### 🧠 Technologies I use
 
