@@ -11,6 +11,8 @@
 You can view my portfolio here:
 
 👉 **https://notevan404.github.io/ivan-portfolio/**
+<img width="1066" height="454" alt="image" src="https://github.com/user-attachments/assets/984baf77-f217-4a99-9bcd-7d4f0f667611" />
+
 
 ---
 
